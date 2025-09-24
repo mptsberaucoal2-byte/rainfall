@@ -6,7 +6,7 @@ import plotly.express as px
 st.title("Actual vs Predicted Weekly Rain Data for 2025")
 
 # Path to the Excel file
-file_path = "/content/SARIMA_forecasts_2025 (2).xlsx"
+file_path = "/SARIMA_forecasts_2025 (2).xlsx"
 
 # Read the data from the Excel file
 try:
